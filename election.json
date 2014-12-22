@@ -218,138 +218,192 @@
             {"party":"aaa","candidate":"aaaa","votes":123}
           ]
         },{
-          "name":"Caithness, Sutherland & Ross"
+          "name":"Caithness, Sutherland & Ross",
+          "results":[]
         },{
-          "name":"Inverness & Nairn"
+          "name":"Inverness & Nairn",
+          "results":[]
         },{
-          "name":"Moray"
+          "name":"Moray",
+          "results":[]
         },{
-          "name":"Na h-Eileanan an Iar"
+          "name":"Na h-Eileanan an Iar",
+          "results":[]
         },{
-          "name":"Orkney"
+          "name":"Orkney",
+          "results":[]
         },{
-          "name":"Shetland"
+          "name":"Shetland",
+          "results":[]
         },{
-          "name":"Skye, Lochaber & Badenoch"
+          "name":"Skye, Lochaber & Badenoch",
+          "results":[]
         }]
     },{
       "name":"Lothian",
       "additionalMembers":7,
       "results":[],
       "constituencies":[{
-          "name":"Almond Valley"
+          "name":"Almond Valley",
+          "results":[]
         },{
-          "name":"Edinburgh Central"
+          "name":"Edinburgh Central",
+          "results":[]
         },{
-          "name":"Edinburgh Eastern"
+          "name":"Edinburgh Eastern",
+          "results":[]
         },{
-          "name":"Edinburgh Northern and Leith"
+          "name":"Edinburgh Northern and Leith",
+          "results":[]
         },{
-          "name":"Edinburgh Pentlands"
+          "name":"Edinburgh Pentlands",
+          "results":[]
         },{
-          "name":"Edinburgh Southern"
+          "name":"Edinburgh Southern",
+          "results":[]
         },{
-          "name":"Edinburgh Western"
+          "name":"Edinburgh Western",
+          "results":[]
         },{
-          "name":"Linlithgow"
+          "name":"Linlithgow",
+          "results":[]
         },{
-          "name":"Midlothian North & Musselburgh"
+          "name":"Midlothian North & Musselburgh",
+          "results":[]
         }]
     },{
       "name":"Mid Scotland and Fife",
       "additionalMembers":7,
       "results":[],
       "constituencies":[{
-          "name":"Clackmananshire & Dunblane"
+          "name":"Clackmananshire & Dunblane",
+          "results":[]
         },{
-          "name":"Cowdenbeath"
+          "name":"Cowdenbeath",
+          "results":[]
         },{
-          "name":"Dunfermline"
+          "name":"Dunfermline",
+          "results":[]
         },{
-          "name":"Fife North East"
+          "name":"Fife North East",
+          "results":[]
         },{
-          "name":"Kirkaldy"
+          "name":"Kirkaldy",
+          "results":[]
         },{
-          "name":"Mid Fife & Glenrothes"
+          "name":"Mid Fife & Glenrothes",
+          "results":[]
         },{
-          "name":"Perthshire North"
+          "name":"Perthshire North",
+          "results":[]
         },{
-          "name":"Perthshire South & Kinross-shire"
+          "name":"Perthshire South & Kinross-shire",
+          "results":[]
         },{
-          "name":"Stirling"
+          "name":"Stirling",
+          "results":[]
         }]
     },{
       "name":"North East Scotland",
       "additionalMembers":7,
       "results":[],
       "constituencies":[{
-          "name":"Aberdeen Central"
+          "name":"Aberdeen Central",
+          "results":[]
         },{
-          "name":"Aberdeen Donside"
+          "name":"Aberdeen Donside",
+          "results":[]
         },{
-          "name":"Aberdeen South & North Kincardine"
+          "name":"Aberdeen South & North Kincardine",
+          "results":[]
         },{
-          "name":"Aberdeenshire East"
+          "name":"Aberdeenshire East",
+          "results":[]
         },{
-          "name":"Aberdeenshire West"
+          "name":"Aberdeenshire West",
+          "results":[]
         },{
-          "name":"Angus North & Mearns"
+          "name":"Angus North & Mearns",
+          "results":[]
         },{
-          "name":"Angus South"
+          "name":"Angus South",
+          "results":[]
         },{
-          "name":"Banffshire & Buchan Coast"
+          "name":"Banffshire & Buchan Coast",
+          "results":[]
         },{
-          "name":"Dundee City East"
+          "name":"Dundee City East",
+          "results":[]
         },{
-          "name":"Dundee City West"
+          "name":"Dundee City West",
+          "results":[]
         }]
     },{
       "name":"South Scotland",
       "additionalMembers":7,
       "results":[],
       "constituencies":[{
-          "name":"Ayr"
+          "name":"Ayr",
+          "results":[]
         },{
-          "name":"Carrick, Cumnock and Doon Valley"
+          "name":"Carrick, Cumnock and Doon Valley",
+          "results":[]
         },{
-          "name":"Clydesdale"
+          "name":"Clydesdale",
+          "results":[]
         },{
-          "name":"Dumfriesshire"
+          "name":"Dumfriesshire",
+          "results":[]
         },{
-          "name":"East Lothian"
+          "name":"East Lothian",
+          "results":[]
         },{
-          "name":"Ettrick, Roxburgh and Berwickshire"
+          "name":"Ettrick, Roxburgh and Berwickshire",
+          "results":[]
         },{
-          "name":"Galloway and West Dumfries"
+          "name":"Galloway and West Dumfries",
+          "results":[]
         },{
-          "name":"Kilmarnock and Irvine Valley"
+          "name":"Kilmarnock and Irvine Valley",
+          "results":[]
         },{
-          "name":"Midlothian South, Tweeddale and Lauderdale"
+          "name":"Midlothian South, Tweeddale and Lauderdale",
+          "results":[]
         }]
     },{
       "name":"West Scotland",
       "additionalMembers":7,
       "results":[],
       "constituencies":[{
-          "name":"Clydebank & Milngavie"
+          "name":"Clydebank & Milngavie",
+          "results":[]
         },{
-          "name":"Cunninghame North"
+          "name":"Cunninghame North",
+          "results":[]
         },{
-          "name":"Cunninghame South"
+          "name":"Cunninghame South",
+          "results":[]
         },{
-          "name":"Dumbarton"
+          "name":"Dumbarton",
+          "results":[]
         },{
-          "name":"Eastwood"
+          "name":"Eastwood",
+          "results":[]
         },{
-          "name":"Greenock & Inverclyde"
+          "name":"Greenock & Inverclyde",
+          "results":[]
         },{
-          "name":"Paisley"
+          "name":"Paisley",
+          "results":[]
         },{
-          "name":"Renfrewshire North & West"
+          "name":"Renfrewshire North & West",
+          "results":[]
         },{
-          "name":"Renfrewshire South"
+          "name":"Renfrewshire South",
+          "results":[]
         },{
-          "name":"Strathkelvin & Bearsden"
+          "name":"Strathkelvin & Bearsden",
+          "results":[]
         }]
     }
 	]
