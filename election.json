@@ -1,0 +1,346 @@
+{ 
+  "name":"Scotland",
+  "regions": [ {
+      "name":"Central Scotland",
+      "additionalMembers":7,
+      "results":[
+        {"party":"SNP","votes":108261,"partyList":["Richard Lyle","Clare Adamson","Jon Wilson","6"]},
+        {"party":"Labour","votes":82459,"partyList":["Siobhan McMahon","Mark Griffin","Margaret McCulloch","7"]},
+        {"party":"Conservative","votes":14870,"partyList":["Margaret Mitchell","8"]},
+        {"party":"Liberal Democrats","votes":3318,"partyList":["Hugh O'Donnell", "9"]},
+        {"party":"All Scotland Pensioners Party","votes":5793,"partyList":["10"]},
+        {"party":"Scottish Green","votes":5634,"partyList":["11"]},
+        {"party":"Scottish Christian", "votes":3173,"partyList":["12"]},
+        {"party":"Socialist Labour","votes":2483,"partyList":["13"]},
+        {"party":"BNP","votes":2214,"partyList":["14"]},
+        {"party":"Scottish Unionist","votes":1545,"partyList":["15"]},
+        {"party":"UKIP","votes":1263,"partyList":["16"]},
+        {"party":"Independent","votes":821,"partyList":["17"]},
+        {"party":"Scottish Socialist","votes":820,"partyList":["18"]},
+        {"party":"Solidarity (Scotland)","votes":559,"partyList":["19"]},
+        {"party":"Scottish Homeland Party","votes":337,"partyList":["20"]}
+      ],
+      "constituencies":[{
+        "name":"Airdrie and Shotts",
+        "results":[
+          {"party":"SNP","candidate":"Alex Neil","votes":11984},
+          {"party":"Labour","candidate":"Karen Whitefield","votes":9983},
+          {"party":"Conservative","candidate":"Robert Crozier","votes":1396},
+          {"party":"Liberal Democrats","candidate":"John Love","votes":531}
+        ]
+      },{
+        "name":"Coatbridge and Chyston",
+        "results":[
+          {"party":"Labour","candidate":"Elaine Smith","votes":12161},
+          {"party":"SNP","candidate":"John Wilson","votes":9420},
+          {"party":"Conservative","candidate":"Jason Lingiah","votes":1317},
+          {"party":"Liberal Democrats","candidate":"Rod Ackland","votes":381}
+        ]
+      },{
+        "name":"Cumbernauld and Kilsyth",
+        "results":[
+          {"party":"SNP","candidate":"Jamie Hepburn","votes":13595},
+          {"party":"Labour","candidate":"Cathie Craigie","votes":10136},
+          {"party":"Conservative","candidate":"James Boswell","votes":1156},
+          {"party":"Liberal Democrats","candidate":"Martin Oliver","votes":367}
+        ]
+      },{
+        "name":"East Kilbride",
+        "results":[
+          {"party":"SNP","candidate":"Linda Fabiani","votes":14359},
+          {"party":"Labour","candidate":"Andy Kerr","votes":12410},
+          {"party":"Conservative","candidate":"Graham Simpson","votes":2260},
+          {"party":"Liberal Democrats","candidate":"Douglas Herbison","votes":468},
+          {"party":"Independent","candidate":"John Houston","votes":414}
+        ]
+      },{
+        "name":"Falkirk East",
+        "results":[
+          {"party":"SNP","candidate":"Angus MacDonald","votes":14302},
+          {"party":"Labour","candidate":"Cathy Peattie","votes":10767},
+          {"party":"Conservative","candidate":"Lynn Monro","votes":2372},
+          {"party":"Liberal Democrats","candidate":"Ross Laird","votes":727}
+        ]
+      },{
+        "name":"Falkirk West",
+        "results":[
+          {"party":"SNP","candidate":"Michael Matheson","votes":15607},
+          {"party":"Labour","candidate":"Dennis Goldie","votes":9862},
+          {"party":"Conservative","candidate":"Allan Finnie","votes":2086},
+          {"party":"Liberal Democrats","candidate":"Callum Chomczuk","votes":644}
+        ]
+      },{
+        "name":"Hamilton, Larkhall and Stonehouse",
+        "results":[
+          {"party":"SNP","candidate":"Christina McKelvie","votes":12202},
+          {"party":"Labour","candidate":"Tom McCabe","votes":9989},
+          {"party":"Conservative","candidate":"Margaret Mitchell","votes":2547},
+          {"party":"Liberal Democrats","candidate":"Ewan Hoyle","votes":616}
+        ]
+      },{
+        "name":"Motherwell and Wishaw",
+        "results":[
+          {"party":"Labour","candidate":"John Pentland","votes":10713},
+          {"party":"SNP","candidate":"Clare Adamson","votes":10126},
+          {"party":"Conservative","candidate":"Robert Burgess","votes":1753},
+          {"party":"Scottish Senior Citizens","candidate":"John Swinburne","votes":945},
+          {"party":"Scottish Christian","candidate":"Tom Selfridge","votes":547},
+          {"party":"Liberal Democrats","candidate":"Beverley Hope","votes":367}
+        ]
+      },{
+        "name":"Uddingston and Bellshill",
+        "results":[
+          {"party":"Labour","candidate":"Michael McMahon","votes":11531},
+          {"party":"SNP","candidate":"Richard Lyle","votes":10817},
+          {"party":"Conservative","candidate":"Mark Brown","votes":2117},
+          {"party":"Liberal Democrats","candidate":"Fraser MacGregor","votes":530}
+        ]
+      }]
+    },{
+      "name":"Glasgow",
+      "additionalMembers":7,
+      "results":[
+        {"party":"SNP","votes":83109,"partyList":["Humza Yousaf","Bob Doris","101"]},
+        {"party":"Labour","votes":73031,"partyList":["Hanzala Malik","Drew Smith","Anne McTaggart","102"]},
+        {"party":"Conservative","votes":12749,"partyList":["Ruth Davidson","103"]},
+        {"party":"Scottish Green","votes":12454,"partyList":["Patrick Harvie","104"]},
+        {"party":"Liberal Democrats","votes":5312,"partyList":["Robert Brown","105"]},
+        {"party":"Respect","votes":6972,"partyList":["106"]},
+        {"party":"Scottish Senior Citizens","votes":3750,"partyList":["107"]},
+        {"party":"BNP","votes":2424,"partyList":["108"]},
+        {"party":"Socialist Labour","votes":2276,"partyList":["109"]},
+        {"party":"Scottish Christian","votes":1501,"partyList":["110"]},
+        {"party":"Scottish Unionist","votes":1447,"partyList":["111"]},
+        {"party":"Scottish Socialist","votes":1362,"partyList":["112"]},
+        {"party":"Pirate","votes":581,"partyList":["113"]},
+        {"party":"Independent","votes":338,"partyList":["114"]},
+        {"party":"Scottish Homeland","votes":283,"partyList":["115"]}
+      ],
+      "constituencies":[{
+        "name":"Glasgow Anniesland",
+        "results":[
+          {"party":"SNP","candidate":"Bill Kidd","votes":10329},
+          {"party":"Labour","candidate":"Bill Butler","votes":10322},
+          {"party":"Conservative","candidate":"Matthew Smith","votes":2011},
+          {"party":"Liberal Democrats","candidate":"Paul McGarry","votes":1000},
+          {"party":"Communist","candidate":"Marc Livingstone","votes":256}
+        ]
+      },{
+        "name":"Glasgow Cathcart",
+        "results":[
+          {"party":"SNP","candidate":"James Dornan","votes":11918},
+          {"party":"Labour","candidate":"Charlie Gordon","votes":10326},
+          {"party":"Conservative","candidate":"Richard Sullivan","votes":2410},
+          {"party":"Liberal Democrats","candidate":"Eileen Baxendale","votes":1118},
+          {"party":"Independent","candidate":"John McKee","votes":450}
+        ]
+      },{
+        "name":"Glasgow Kelvin",
+        "results":[
+          {"party":"SNP","candidate":"Sandra White","votes":10640},
+          {"party":"Labour","candidate":"Pauline McNeill","votes":9758},
+          {"party":"Liberal Democrats","candidate":"Natalie McKee","votes":1900},
+          {"party":"Conservative","candidate":"Ruth Davidson","votes":1845},
+          {"party":"Independent","candidate":"Tom Muirhead","votes":405}
+        ]
+      },{
+        "name":"Glasgow Maryhill and Springburn",
+        "results":[
+          {"party":"Labour","candidate":"Patricia Ferguson","votes":9884},
+          {"party":"SNP","candidate":"Bob Doris","votes":8592},
+          {"party":"Conservative","candidate":"Stephanie Murray","votes":1222},
+          {"party":"Liberal Democrats","candidate":"Sophie Bridger","votes":833}
+        ]
+      },{
+        "name":"Glasgow Pollok",
+        "results":[
+          {"party":"Labour","candidate":"Johann Lamont","votes":10875},
+          {"party":"SNP","candidate":"Christopher Stephens","votes":10252},
+          {"party":"Conservative","candidate":"Andrew Morrison","votes":1298},
+          {"party":"Liberal Democrats","candidate":"Isabel Nelson","votes":490}
+        ]
+      },{
+        "name":"Glasgow Provan",
+        "results":[
+          {"party":"Labour","candidate":"Paul Martin","votes":10037},
+          {"party":"SNP","candidate":"Anne McLaughlin","votes":7958},
+          {"party":"Conservative","candidate":"Majid Hussain","votes":777},
+          {"party":"Liberal Democrats","candidate":"Michael O'Donnell","votes":413}
+        ]
+      },{
+        "name":"Glasgow Shettleston",
+        "results":[
+          {"party":"SNP","candidate":"John Mason","votes":10128},
+          {"party":"Labour","candidate":"Frank McAveety","votes":9542},
+          {"party":"Conservative","candidate":"David Wilson","votes":1163},
+          {"party":"Liberal Democrats","candidate":"Ruaraidh Dobson","votes":371}
+        ]
+      },{
+        "name":"Glasgow Southside",
+        "results":[
+          {"party":"SNP","candidate":"Nicola Sturgeon","votes":12306},
+          {"party":"Labour","candidate":"Stephen Curran","votes":7957},
+          {"party":"Conservative","candidate":"David Meikle","votes":1733},
+          {"party":"Liberal Democrats","candidate":"Kenn Elder","votes":612}
+        ]
+      },{
+        "name":"Rutherglen",
+        "results":[
+          {"party":"Labour","candidate":"James Kelly","votes":12489},
+          {"party":"SNP","candidate":"James McGuigan","votes":10710},
+          {"party":"Conservative","candidate":"Martyne McIntyre","votes":2096},
+          {"party":"Liberal Democrats","candidate":"Lisa Strachan","votes":1194},
+          {"party":"Independent","candidate":"Caroline Johnstone","votes":633}
+        ]
+      }]
+    },{
+      "name":"Highlands and Islands",
+      "additionalMembers":7,
+      "results":[
+        {"party":"SNP","votes":85082,"partyList":["John Finnie","Jean Urquhart","Mike MacKenzie","200"]},
+        {"party":"Labour","votes":25884,"partyList":["Rhoda Grant","David Stewart","201"]},
+        {"party":"Liberal Democrats","votes":21729,"partyList":["202"]},
+        {"party":"Conservative","votes":20843,"partyList":["Jamie McGrigor","Mary Scanlon","203"]},
+        {"party":"Scottish Green","votes":9076,"partyList":["204"]},
+        {"party":"Scottish Christian","votes":3541,"partyList":["205"]},
+        {"party":"UKIP","votes":3372,"partyList":["205"]},
+        {"party":"All Scotland Pensioners Party","votes":2770,"partyList":["207"]},
+        {"party":"Ban Bankers Bonuses","votes":1764,"partyList":["208"]},
+        {"party":"Liberal","votes":1969,"partyList":["209"]},
+        {"party":"Socialist Labour","votes":1406,"partyList":["210"]},
+        {"party":"BNP","votes":1134,"partyList":["211"]},
+        {"party":"Scottish Socialist","votes":509,"partyList":["212"]},
+        {"party":"Solidarity","votes":204,"partyList":["213"]}
+      ],
+      "constituencies":[{
+          "name":"Argyll & Bute",
+          "results":[
+            {"party":"aaa","candidate":"aaaa","votes":123}
+          ]
+        },{
+          "name":"Caithness, Sutherland & Ross"
+        },{
+          "name":"Inverness & Nairn"
+        },{
+          "name":"Moray"
+        },{
+          "name":"Na h-Eileanan an Iar"
+        },{
+          "name":"Orkney"
+        },{
+          "name":"Shetland"
+        },{
+          "name":"Skye, Lochaber & Badenoch"
+        }]
+    },{
+      "name":"Lothian",
+      "constituencies":[{
+          "name":"Almond Valley"
+        },{
+          "name":"Edinburgh Central"
+        },{
+          "name":"Edinburgh Eastern"
+        },{
+          "name":"Edinburgh Northern and Leith"
+        },{
+          "name":"Edinburgh Pentlands"
+        },{
+          "name":"Edinburgh Southern"
+        },{
+          "name":"Edinburgh Western"
+        },{
+          "name":"Linlithgow"
+        },{
+          "name":"Midlothian North & Musselburgh"
+        }]
+    },{
+      "name":"Mid Scotland and Fife",
+      "constituencies":[{
+          "name":"Clackmananshire & Dunblane"
+        },{
+          "name":"Cowdenbeath"
+        },{
+          "name":"Dunfermline"
+        },{
+          "name":"Fife North East"
+        },{
+          "name":"Kirkaldy"
+        },{
+          "name":"Mid Fife & Glenrothes"
+        },{
+          "name":"Perthshire North"
+        },{
+          "name":"Perthshire South & Kinross-shire"
+        },{
+          "name":"Stirling"
+        }]
+    },{
+      "name":"North East Scotland",
+      "constituencies":[{
+          "name":"Aberdeen Central"
+        },{
+          "name":"Aberdeen Donside"
+        },{
+          "name":"Aberdeen South & North Kincardine"
+        },{
+          "name":"Aberdeenshire East"
+        },{
+          "name":"Aberdeenshire West"
+        },{
+          "name":"Angus North & Mearns"
+        },{
+          "name":"Angus South"
+        },{
+          "name":"Banffshire & Buchan Coast"
+        },{
+          "name":"Dundee City East"
+        },{
+          "name":"Dundee City West"
+        }]
+    },{
+      "name":"South Scotland",
+      "constituencies":[{
+          "name":"Ayr"
+        },{
+          "name":"Carrick, Cumnock and Doon Valley"
+        },{
+          "name":"Clydesdale"
+        },{
+          "name":"Dumfriesshire"
+        },{
+          "name":"East Lothian"
+        },{
+          "name":"Ettrick, Roxburgh and Berwickshire"
+        },{
+          "name":"Galloway and West Dumfries"
+        },{
+          "name":"Kilmarnock and Irvine Valley"
+        },{
+          "name":"Midlothian South, Tweeddale and Lauderdale"
+        }]
+    },{
+      "name":"West Scotland",
+      "constituencies":[{
+          "name":"Clydebank & Milngavie"
+        },{
+          "name":"Cunninghame North"
+        },{
+          "name":"Cunninghame South"
+        },{
+          "name":"Dumbarton"
+        },{
+          "name":"Eastwood"
+        },{
+          "name":"Greenock & Inverclyde"
+        },{
+          "name":"Paisley"
+        },{
+          "name":"Renfrewshire North & West"
+        },{
+          "name":"Renfrewshire South"
+        },{
+          "name":"Strathkelvin & Bearsden"
+        }]
+    }
+	]
+}
