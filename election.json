@@ -203,7 +203,7 @@
         {"party":"Conservative","votes":20843,"partyList":["Jamie McGrigor","Mary Scanlon","203"]},
         {"party":"Scottish Green","votes":9076,"partyList":["204"]},
         {"party":"Scottish Christian","votes":3541,"partyList":["205"]},
-        {"party":"UKIP","votes":3372,"partyList":["205"]},
+        {"party":"UKIP","votes":3372,"partyList":["206"]},
         {"party":"All Scotland Pensioners Party","votes":2770,"partyList":["207"]},
         {"party":"Ban Bankers Bonuses","votes":1764,"partyList":["208"]},
         {"party":"Liberal","votes":1969,"partyList":["209"]},
@@ -234,6 +234,8 @@
         }]
     },{
       "name":"Lothian",
+      "additionalMembers":7,
+      "results":[],
       "constituencies":[{
           "name":"Almond Valley"
         },{
@@ -255,6 +257,8 @@
         }]
     },{
       "name":"Mid Scotland and Fife",
+      "additionalMembers":7,
+      "results":[],
       "constituencies":[{
           "name":"Clackmananshire & Dunblane"
         },{
@@ -276,6 +280,8 @@
         }]
     },{
       "name":"North East Scotland",
+      "additionalMembers":7,
+      "results":[],
       "constituencies":[{
           "name":"Aberdeen Central"
         },{
@@ -299,6 +305,8 @@
         }]
     },{
       "name":"South Scotland",
+      "additionalMembers":7,
+      "results":[],
       "constituencies":[{
           "name":"Ayr"
         },{
@@ -320,6 +328,8 @@
         }]
     },{
       "name":"West Scotland",
+      "additionalMembers":7,
+      "results":[],
       "constituencies":[{
           "name":"Clydebank & Milngavie"
         },{

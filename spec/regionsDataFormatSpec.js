@@ -19,6 +19,17 @@ describe("region data is well formatted", function(){
             expect(additionalMembers).toBeGreaterThan(0);
         });
 
+        it(name+" has constituencies", function(){
+           var constituencies = region.constituencies;
+            expect(constituencies).not.toBeUndefined();
+            expect(constituencies).not.toBeNull();
+        });
+
+        it(name+" has results", function(){
+            var results = region.results;
+            expect(results).not.toBeUndefined();
+            expect(results).not.toBeNull();
+        });
     });
 
 
