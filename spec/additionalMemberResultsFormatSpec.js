@@ -25,8 +25,13 @@ describe("additional member results well formatted", function(){
                 expect(typeof(result.partyList)).toBe("object");
                 expect(result.partyList.length).toBeGreaterThan(0);
             });
+        });
 
-
+        it(region.name+" has unique list of parties", function(){
+            var parties= _.map(results, function(item){return item.party;});
+            var sortedParties = _.sortBy(parties, function(name){return name;});
+            var distinctParties = _.uniq(sortedParties, true);
+            expect(sortedParties.length).toBe(distinctParties.length);
         });
     });
 });

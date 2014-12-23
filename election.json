@@ -288,7 +288,26 @@
     },{
       "name":"Lothian",
       "additionalMembers":7,
-      "results":[],
+      "results":[
+        {"party":"SNP","votes":110953,"partyList":["292"]},
+        {"party":"Labour","votes":70544,"partyList":["Sarah Boyack","Kezia Dugdale","Neil Findlay","293"]},
+        {"party":"Conservative","votes":33019,"partyList":["David McLetchie","Gavin Brown","294"]},
+        {"party":"Scottish Green","votes":21505,"partyList":["Alison Johnstone","295"]},
+        {"party":"Liberal Democrats","votes":15588,"partyList":["296"]},
+        {"party":"Margo MacDonald","votes":18732,"partyList":["Margo MacDonald"]},
+        {"party":"Scottish Senior Citizens","votes":3218,"partyList":["298"]},
+        {"party":"BNP","votes":1978,"partyList":["299"]},
+        {"party":"UKIP","votes":1822,"partyList":["300"]},
+        {"party":"Socialist Labour","votes":1681,"partyList":["301"]},
+        {"party":"Scottish Socialist","votes":1183,"partyList":["302"]},
+        {"party":"Scottish Christian","votes":914,"partyList":["303"]},
+        {"party":"Liberal","votes":697,"partyList":["304"]},
+        {"party":"Christian Peoples","votes":553,"partyList":["305"]},
+        {"party":"Solidarity","votes":327,"partyList":["306"]},
+        {"party":"Independent 307","votes":294,"partyList":["307"]},
+        {"party":"Independent 308","votes":134,"partyList":["308"]},
+        {"party":"Independent 309","votes":61,"partyList":["309"]}
+      ],
       "constituencies":[{
           "name":"Almond Valley",
           "results":[]
