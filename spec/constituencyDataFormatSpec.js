@@ -17,5 +17,12 @@ describe("constituency data is well formatted", function(){
             });
 
         });
+
+        it(region.name+" has unique list of constituencies", function(){
+            var constituencyNames= _.map(constituencies, function(item){return item.name;});
+            var sortedNames = _.sortBy(constituencyNames, function(name){return name;});
+            var distinctNames = _.uniq(sortedNames, true);
+            expect(sortedNames.length).toBe(distinctNames.length);
+        });
     });
 });
