@@ -482,37 +482,111 @@
     },{
       "name":"North East Scotland",
       "additionalMembers":7,
-      "results":[],
+      "results":[
+        {"party":"SNP","votes":140749,"partyList":["Mark McDonald","486"]},
+        {"party":"Labour","votes":43893,"partyList":["Richard Baker","Jenny Marra","Lewis MacDonald","487"]},
+        {"party":"Conservative","votes":37891,"partyList":["Alex Johnstone","Nanette Milne","488"]},
+        {"party":"Liberal Democrats","votes":18178,"partyList":["Alison McInnes","489"]},
+        {"party":"Scottish Green","votes":10470,"partyList":["490"]},
+        {"party":"Scottish Senior Citizens","votes":4420,"partyList":["491"]},
+        {"party":"UKIP","votes":2477,"partyList":["492"]},
+        {"party":"Scottish Christian","votes":2159,"partyList":["493"]},
+        {"party":"BNP","votes":1925,"partyList":["494"]},
+        {"party":"Socialist Labour","votes":1459,"partyList":["495"]},
+        {"party":"Scottish Socialist","votes":1115,"partyList":["496"]},
+        {"party":"Independent 497","votes":758,"partyList":["497"]},
+        {"party":"National Front","votes":640,"partyList":["498"]},
+        {"party":"Angus Independents","votes":471,"partyList":["499"]},
+        {"party":"Solidarity","votes":286,"partyList":["500"]},
+        {"party":"Independent 501","votes":237,"partyList":["501"]},
+        {"party":"Independent 502","votes":190,"partyList":["502"]}
+      ],
       "constituencies":[{
           "name":"Aberdeen Central",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Kevin Stewart","votes":10058},
+            {"party":"Labour","candidate":"Lewis MacDonald","votes":9441},
+            {"party":"Conservative","candidate":"Sandy Wallace","votes":3100},
+            {"party":"Liberal Democrats","candidate":"Sheila Thomson","votes":2349},
+            {"party":"National Front","candidate":"Mike Phillips","votes":201}
+          ]
         },{
           "name":"Aberdeen Donside",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Brian Adam","votes":14790},
+            {"party":"Labour","candidate":"Barney Crockett","votes":7615},
+            {"party":"Conservative","candidate":"Ross Thomson","votes":2166},
+            {"party":"Liberal Democrats","candidate":"Millie McLeod","votes":1606},
+            {"party":"Independent","candidate":"David Henderson","votes":317},
+            {"party":"National Front","candidate":"Christopher Willett","votes":213}
+          ]
         },{
           "name":"Aberdeen South & North Kincardine",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Maureen Watt","votes":11947},
+            {"party":"Labour","candidate":"Greg Williams","votes":5624},
+            {"party":"Liberal Democrats","candidate":"John Sleigh","votes":4944},
+            {"party":"Conservative","candidate":"Stewart Whyte","votes":4058},
+            {"party":"Independent","candidate":"Marie Boulton","votes":1816},
+            {"party":"National Front","candidate":"Ross Willett","votes":214}
+          ]
         },{
           "name":"Aberdeenshire East",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Alex Salmond","votes":19533},
+            {"party":"Liberal Democrats","candidate":"Alison McInnes","votes":4238},
+            {"party":"Conservative","candidate":"Geordie Burnett Stuart","votes":4211},
+            {"party":"Labour","candidate":"Peter Smyth","votes":2304}
+          ]
         },{
           "name":"Aberdeenshire West",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Dennis Robertson","votes":12186},
+            {"party":"Liberal Democrats","candidate":"Mike Rumbles","votes":8074},
+            {"party":"Conservative","candidate":"Nanette Milne","votes":6027},
+            {"party":"Labour","candidate":"Jean Morrison","votes":2349}
+          ]
         },{
           "name":"Angus North & Mearns",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Nigel Don","votes":13660},
+            {"party":"Conservative","candidate":"Alex Johnstone","votes":6374},
+            {"party":"Labour","candidate":"Kevin Hutchens","votes":3160},
+            {"party":"Liberal Democrats","candidate":"Sanjay Samani","votes":1726}
+          ]
         },{
           "name":"Angus South",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Graeme Day","votes":16164},
+            {"party":"Conservative","candidate":"Hughie Campbell Adamson","votes":5581},
+            {"party":"Labour","candidate":"William Campbell","votes":3703},
+            {"party":"Independent","candidate":"David Fairweather","votes":1321},
+            {"party":"Liberal Democrats","candidate":"Clive Sneddon","votes":874}
+          ]
         },{
           "name":"Banffshire & Buchan Coast",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Stewart Stevenson","votes":16812},
+            {"party":"Conservative","candidate":"Michael Watt","votes":4592},
+            {"party":"Labour","candidate":"Alan Duffill","votes":2642},
+            {"party":"Liberal Democrats","candidate":"Galen Milne","votes":958}
+          ]
         },{
           "name":"Dundee City East",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Shona Robinson","votes":16541},
+            {"party":"Labour","candidate":"Mohammed Asif","votes":5862},
+            {"party":"Conservative","candidate":"Brian Docherty","votes":2550},
+            {"party":"Liberal Democrats","candidate":"Allan Petrie","votes":800}
+          ]
         },{
           "name":"Dundee City West",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Joe Fitzpatrick","votes":14089},
+            {"party":"Labour","candidate":"Richard McCready","votes":7684},
+            {"party":"Conservative","candidate":"Colin Stewart","votes":1625},
+            {"party":"Liberal Democrats","candidate":"Allison Burns","votes":1063}
+          ]
         }]
     },{
       "name":"South Scotland",
