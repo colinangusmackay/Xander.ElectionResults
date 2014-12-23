@@ -215,29 +215,75 @@
       "constituencies":[{
           "name":"Argyll & Bute",
           "results":[
-            {"party":"aaa","candidate":"aaaa","votes":123}
+            {"party":"SNP","candidate":"Mike Russell","votes":13390},
+            {"party":"Conservative","candidate":"Jamie McGrigor","votes":4847},
+            {"party":"Labour","candidate":"Mick Rice","votes":4041},
+            {"party":"Liberal Democrats","candidate":"Alison Hay","votes":3220},
+            {"party":"Independent","candidate":"George Doyle","votes":542},
+            {"party":"Liberal","candidate":"George White","votes":436}
           ]
         },{
           "name":"Caithness, Sutherland & Ross",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Rob Gibson","votes":13843},
+            {"party":"Liberal Democrats","candidate":"Robbie Rowantree","votes":6385},
+            {"party":"Labour","candidate":"John MacKay","votes":5438},
+            {"party":"Conservative","candidate":"Edward Mountain","votes":2934}
+          ]
         },{
           "name":"Inverness & Nairn",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Fergus Ewing","votes":16870},
+            {"party":"Labour","candidate":"David Stewart","votes":7125},
+            {"party":"Conservative","candidate":"mary Scanlon","votes":3797},
+            {"party":"Liberal Democrats","candidate":"Christine Jardine","votes":3763},
+            {"party":"Scottish Christians","candidate":"Donald Boyd","votes":646},
+            {"party":"UKIP","candidate":"Ross Durance","votes":530}
+          ]
         },{
           "name":"Moray",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Richard Lockhead","votes":16817},
+            {"party":"Conservative","candidate":"Douglas Ross","votes":5837},
+            {"party":"Labour","candidate":"Kieron Green","votes":3580},
+            {"party":"Liberal Democrats","candidate":"Jamie Paterson","votes":1327},
+            {"party":"UKIP","candidate":"Donald Gatt","votes":999}
+          ]
         },{
           "name":"Na h-Eileanan an Iar",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Alasdair Allan","votes":8496},
+            {"party":"Labour","candidate":"Donald Crichton","votes":3724},
+            {"party":"Conservative","candidate":"Charlie McGrigor","votes":563},
+            {"party":"Liberal Democrats","candidate":"Peter Morrison","votes":228}
+          ]
         },{
           "name":"Orkney",
-          "results":[]
+          "results":[
+            {"party":"Liberal Democrats","candidate":"Liam McArthur","votes":2912},
+            {"party":"Independent","candidate":"James Stockan","votes":2052},
+            {"party":"SNP","candidate":"Donna Heddle","votes":2044},
+            {"party":"Conservative","candidate":"Jamie Halcro-Johnson","votes":686},
+            {"party":"Labour","candidate":"William Sharkey","votes":458}
+          ]
         },{
           "name":"Shetland",
-          "results":[]
+          "results":[
+            {"party":"Liberal Democrats","candidate":"Tavish Scott","votes":4462},
+            {"party":"Independent","candidate":"Billy Fox","votes":2845},
+            {"party":"SNP","candidate":"Jean Urquhart","votes":1134},
+            {"party":"Labour","candidate":"Jamie Kerr","votes":620},
+            {"party":"Conservative","candidate":"Snady Cross","votes":330}
+          ]
         },{
           "name":"Skye, Lochaber & Badenoch",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"David Thompson","votes":14737},
+            {"party":"Liberal Democrats","candidate":"Alan MacRae","votes":9742},
+            {"party":"Labour","candidate":"Linda Stewart","votes":4112},
+            {"party":"Conservative","candidate":"Kerensa Carr","votes":2834},
+            {"party":"Independent","candidate":"Ronnie Campbell","votes":490}
+          ]
         }]
     },{
       "name":"Lothian",

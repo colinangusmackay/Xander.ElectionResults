@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f37f88e-8284-41d5-b1e6-b2b25fc14d3b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/additionalMemberResultsFormatSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/constituencyDataFormatSpec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/constituencyResultsFormatSpec.js" afterPath="$PROJECT_DIR$/spec/constituencyResultsFormatSpec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/election.json" afterPath="$PROJECT_DIR$/election.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -29,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="constituencyDataFormatSpec.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/constituencyDataFormatSpec.js">
+      <file leaf-file-name="constituencyResultsFormatSpec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/constituencyResultsFormatSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
-              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -42,11 +41,21 @@
       <file leaf-file-name="election.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/election.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0220022" vertical-offset="5020" max-vertical-offset="7980">
-              <caret line="268" column="10" selection-start-line="268" selection-start-column="10" selection-end-line="268" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.6259626" vertical-offset="4791" max-vertical-offset="8900">
+              <caret line="284" column="77" selection-start-line="284" selection-start-column="77" selection-end-line="284" selection-end-column="77" />
               <folding>
                 <element signature="e#5015#6159#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constituencyDataFormatSpec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/constituencyDataFormatSpec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
+              <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,6 +105,7 @@
         <option value="$PROJECT_DIR$/spec/regionsDataFormatSpec.js" />
         <option value="$PROJECT_DIR$/spec/additionalMemberResultsFormatSpec.js" />
         <option value="$PROJECT_DIR$/spec/constituencyDataFormatSpec.js" />
+        <option value="$PROJECT_DIR$/spec/constituencyResultsFormatSpec.js" />
         <option value="$PROJECT_DIR$/election.json" />
       </list>
     </option>
@@ -369,10 +379,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spec/constituencyResultsFormatSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="820">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/election.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0220022" vertical-offset="5020" max-vertical-offset="7980">
-          <caret line="268" column="10" selection-start-line="268" selection-start-column="10" selection-end-line="268" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.6259626" vertical-offset="4791" max-vertical-offset="8900">
+          <caret line="284" column="77" selection-start-line="284" selection-start-column="77" selection-end-line="284" selection-end-column="77" />
           <folding>
             <element signature="e#5015#6159#0" expanded="false" />
           </folding>
