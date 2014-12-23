@@ -591,69 +591,194 @@
     },{
       "name":"South Scotland",
       "additionalMembers":7,
-      "results":[],
+      "results":[
+        {"party":"SNP","votes":114270,"partyList":["Joan McAlpine","Aileen McLeod","Paul Wheelhouse","Chic Brodie","595"]},
+        {"party":"Labour","votes":70596,"partyList":["Claudia Beamish","Graeme Pearson","596"]},
+        {"party":"Conservative","votes":54352,"partyList":["597"]},
+        {"party":"Liberal Democrats","votes":15096,"partyList":["Jim Hume","598"]},
+        {"party":"Scottish Green","votes":8656,"partyList":["599"]},
+        {"party":"Scottish Senior Citizens","votes":4418,"partyList":["600"]},
+        {"party":"UKIP","votes":3343,"partyList":["601"]},
+        {"party":"Socialist Labour","votes":2906,"partyList":["602"]},
+        {"party":"BNP","votes":2017,"partyList":["603"]},
+        {"party":"Scottish Christian","votes":1924,"partyList":["604"]},
+        {"party":"Solidarity","votes":813,"partyList":["605"]},
+        {"party":"Scottish Socialist","votes":697,"partyList":["606"]}
+      ],
       "constituencies":[{
           "name":"Ayr",
-          "results":[]
+          "results":[
+            {"party":"Conservative","candidate":"John Scott","votes":12997},
+            {"party":"SNP","candidate":"Chic Brodie","votes":11884},
+            {"party":"Labour","candidate":"Gordon McKenzie","votes":7779},
+            {"party":"Liberal Democrats","candidate":"Eileen Taylor","votes":713}
+          ]
         },{
           "name":"Carrick, Cumnock and Doon Valley",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Adam Ingram","votes":13250},
+            {"party":"Labour","candidate":"Richard Leonard","votes":10669},
+            {"party":"Conservative","candidate":"Peter Kennerley","votes":4160},
+            {"party":"Liberal Democrats","candidate":"Andrew Chamberlain","votes":624}
+          ]
         },{
           "name":"Clydesdale",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Aileen Campbell","votes":14931},
+            {"party":"Labour","candidate":"Karen Gillon","votes":10715},
+            {"party":"Conservative","candidate":"Colin McGavigan","votes":4291}
+          ]
         },{
           "name":"Dumfriesshire",
-          "results":[]
+          "results":[
+            {"party":"Labour","candidate":"Elaine Murray","votes":12624},
+            {"party":"Conservative","candidate":"Gillian Dykes","votes":9468},
+            {"party":"SNP","candidate":"Aileen Orr","votes":8384},
+            {"party":"Liberal Democrats","candidate":"Richard Brodie","votes":1419}
+          ]
         },{
           "name":"East Lothian",
-          "results":[]
+          "results":[
+            {"party":"Labour","candidate":"Iain Gray","votes":12536},
+            {"party":"SNP","candidate":"David Berry","votes":12385},
+            {"party":"Conservative","candidate":"Derek Brownlee","votes":5344},
+            {"party":"Liberal Democrats","candidate":"Ettie Spencer","votes":1912}
+          ]
         },{
           "name":"Ettrick, Roxburgh and Berwickshire",
-          "results":[]
+          "results":[
+            {"party":"Conservative","candidate":"John Lamont","votes":12933},
+            {"party":"SNP","candidate":"Paul Wheelhouse","votes":7599},
+            {"party":"Liberal Democrats","candidate":"Euan Robson","votes":4990},
+            {"party":"Labour","candidate":"Rab Stewart","votes":2986},
+            {"party":"Independent","candidate":"Jesse Rae","votes":308}
+          ]
         },{
           "name":"Galloway and West Dumfries",
-          "results":[]
+          "results":[
+            {"party":"Conservative","candidate":"Alex Fergusson","votes":11071},
+            {"party":"SNP","candidate":"Aileen McLeod","votes":10209},
+            {"party":"Labour","candidate":"Willie Scobie","votes":7954},
+            {"party":"Liberal Democrats","candidate":"Joe Rosiejak","votes":763}
+          ]
         },{
           "name":"Kilmarnock and Irvine Valley",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Willie Coffey","votes":16964},
+            {"party":"Labour","candidate":"Matt McLaughlin","votes":10971},
+            {"party":"Conservatives","candidate":"Grant Fergusson","votes":3309},
+            {"party":"Liberal Democrats","candidate":"Robbie Simpson","votes":614}
+          ]
         },{
           "name":"Midlothian South, Tweeddale and Lauderdale",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Christine Grahame","votes":13855},
+            {"party":"Liberal Democrats","candidate":"Jeremy Purvis","votes":8931},
+            {"party":"Labour","candidate":"Ian Miller","votes":5312},
+            {"party":"Conservative","candidate":"Peter Duncan","votes":3743}
+          ]
         }]
     },{
       "name":"West Scotland",
       "additionalMembers":7,
-      "results":[],
+      "results":[
+        {"party":"SNP","votes":117306,"partyList":["Stewart Maxwell","Stuart McMillan","685"]},
+        {"party":"Labour","votes":92530,"partyList":["Mary Fee","Neil Bibby","Margaret McDougall","686"]},
+        {"party":"Conservative","votes":35995,"partyList":["Annabel Goldie","Jackson Carlaw","687"]},
+        {"party":"Liberal Democrats","votes":9148,"partyList":["688"]},
+        {"party":"Scottish Green","votes":8414,"partyList":["689"]},
+        {"party":"Scottish Senior Citizens","votes":4771,"partyList":["690"]},
+        {"party":"Socialist Labour","votes":2865,"partyList":["691"]},
+        {"party":"Scottish Christian","votes":2468,"partyList":["692"]},
+        {"party":"BNP","votes":2162,"partyList":["693"]},
+        {"party":"UKIP","votes":2000,"partyList":["694"]},
+        {"party":"Scottish Socialist","votes":1752,"partyList":["695"]},
+        {"party":"Ban Bankers Bonuses","votes":1204,"partyList":["696"]},
+        {"party":"Pirate","votes":850,"partyList":["697"]},
+        {"party":"Independent","votes":460,"partyList":["698"]},
+        {"party":"Solidarity","votes":446,"partyList":["699"]}
+      ],
       "constituencies":[{
           "name":"Clydebank & Milngavie",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Gil Paterson","votes":12278},
+            {"party":"Labour","candidate":"Des McNulty","votes":11564},
+            {"party":"Conservative","candidate":"Alice Struthers","votes":2758},
+            {"party":"Liberal Democrats","candidate":"John Duncan","votes":1769}
+          ]
         },{
           "name":"Cunninghame North",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Kenneth Gibson","votes":15539},
+            {"party":"Labour","candidate":"Allan Wilson","votes":9422},
+            {"party":"Conservative","candidate":"Maurice Golden","votes":4032},
+            {"party":"Liberal Democrats","candidate":"Malika Punukollu","votes":543}
+          ]
         },{
           "name":"Cunninghame South",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Margaret Burgess","votes":10993},
+            {"party":"Labour","candidate":"Irene Oldfather","votes":8645},
+            {"party":"Conservative","candidate":"Alisair Haw","votes":1871},
+            {"party":"Liberal Democrats","candidate":"Ruby Kirkwood","votes":547}
+          ]
         },{
           "name":"Dumbarton",
-          "results":[]
+          "results":[
+            {"party":"Labour","candidate":"Jackie Baillie","votes":12562},
+            {"party":"SNP","candidate":"Iain Robertson","votes":10923},
+            {"party":"Conservative","candidate":"Graham Smith","votes":3395},
+            {"party":"Liberal Democrats","candidate":"Helen Watt","votes":858},
+            {"party":"Independent","candidate":"George Rice","votes":770}
+          ]
         },{
           "name":"Eastwood",
-          "results":[]
+          "results":[
+            {"party":"Labour","candidate":"Ken Macintosh","votes":12662},
+            {"party":"Conservative","candidate":"Jackson Carlaw","votes":10650},
+            {"party":"SNP","candidate":"Stewart Maxwell","votes":7777},
+            {"party":"Liberal Democrats","candidate":"Gordon Cochrane","votes":835}
+          ]
         },{
           "name":"Greenock & Inverclyde",
-          "results":[]
+          "results":[
+            {"party":"Labour","candidate":"Duncan McNeil","votes":12387},
+            {"party":"SNP","candidate":"Stuart McMillan","votes":11876},
+            {"party":"Conservative","candidate":"Graeme Andrew Brooks","votes":2011},
+            {"party":"Liberal Democrats","candidate":"Ross Finnie","votes":1934}
+          ]
         },{
           "name":"Paisley",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"George Adam","votes":10913},
+            {"party":"Labour","candidate":"Ewan Williams","votes":10665},
+            {"party":"Conservative","candidate":"Gordon McCaskill","votes":2229},
+            {"party":"Liberal Democrats","candidate":"Eileen McCartin","votes":1783}
+          ]
         },{
           "name":"Renfrewshire North & West",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Derek Mackay","votes":11510},
+            {"party":"Labour","candidate":"Stuart Clark","votes":9946},
+            {"party":"Conservative","candidate":"Annabel Goldie","votes":5489},
+            {"party":"Liberal Democrats","candidate":"Andrew Page","votes":550}
+          ]
         },{
           "name":"Renfrewshire South",
-          "results":[]
+          "results":[
+            {"party":"Labour","candidate":"Hugh Henry","votes":12943},
+            {"party":"SNP","candidate":"Andrew Doig","votes":10356},
+            {"party":"Conservative","candidate":"Alistair Campbell","votes":2917},
+            {"party":"Liberal Democrats","candidate":"Gordon Anderson","votes":702}
+          ]
         },{
           "name":"Strathkelvin & Bearsden",
-          "results":[]
+          "results":[
+            {"party":"SNP","candidate":"Fiona McLeod","votes":14258},
+            {"party":"Labour","candidate":"David Whitton","votes":12456},
+            {"party":"Conservative","candidate":"Stephen Fraser","votes":4438},
+            {"party":"Liberal Democrats","candidate":"Gordon Findlay Macdonald","votes":2600}
+          ]
         }]
     }
 	]
