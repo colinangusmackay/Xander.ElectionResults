@@ -1,5 +1,5 @@
 describe("country data is formatted well", function(){
-    var data  = require("../election.json");
+    var data  = require("../../election.json");
 
     it("has a name", function(){
         expect(data.name).not.toEqual(undefined);

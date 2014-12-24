@@ -1,6 +1,6 @@
 describe("additional member results well formatted", function(){
     var _= require("underscore"),
-        data = require("../election.json"),
+        data = require("../../election.json"),
         regions = data.regions;
     _.each(regions, function(region){
         var results = region.results;
