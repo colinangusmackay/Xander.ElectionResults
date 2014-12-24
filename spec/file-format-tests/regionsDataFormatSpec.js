@@ -1,6 +1,6 @@
 describe("region data is well formatted", function(){
     var _ = require("underscore");
-    var data = require("../../election.json");
+    var data = require("../../data/election.json");
     var regions = data.regions;
 
     _.each(regions, function(region){

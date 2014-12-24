@@ -1,6 +1,6 @@
 describe("constituency data is well formatted", function(){
    var _= require("underscore"),
-       data = require("../../election.json"),
+       data = require("../../data/election.json"),
        regions= data.regions;
     _.each(regions,function(region){
        var constituencies=region.constituencies;
