@@ -1,1 +1,35 @@
-<h2>Hello World!</h2>
+
+<div class="row">
+    <div id="map-container" class="col-xs-12 col-sm-12 col-md-6 col-lg-8">
+        <div class="row"><h2>Map</h2></div>
+        <div class="row"><div id="map"></div></div>
+    </div>
+    <div id="constituencies" class="col-xs-12 col-sm-6 col-md-3 col-lg-2">
+        <div class="row"><h2>Constituencies</h2></div>
+        <div class="row">
+            <ul>
+            <% for(var i=0;i<constituencies.length;i++){ var constituency = constituencies[i];%>
+                <li><a href=""><%- constituency.constituencyName%></a> - <%- constituency.candidateName%> (<%-constituency.party%>)</li>
+            <% }%>
+            </ul>
+        </div>
+    </div>
+    <div id="regions" class="col-xs-12 col-sm-6 col-md-3 col-lg-2">
+        <div class="row"><h2>Regions</h2></div>
+        <div class="row">
+            <ul>
+                <% for(var j=0;j<regions.length;j++){ var region = regions[j];%>
+                <li><a href=""><%- region.regionName%></a>
+                    <ul>
+                        <% for(var k=0;k<region.winners.length;k++){ var winner = region.winners[k];%>
+                        <li><%- winner.listMember%> (<%-winner.party%>)</li>
+                        <%}%>
+                    </ul></li>
+                <% }%>
+            </ul>
+        </div>
+    </div>
+</div>
+<script type="application/javascript" src="/js/home.js"></script>
+<%- contentFor("title")%>Home
+<%- contentFor("styles")%><link rel="stylesheet" href="/css/home.css" />
