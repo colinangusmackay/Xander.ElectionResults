@@ -12,6 +12,7 @@ module.exports = function(req, res){
             regions: _(regions).map(function(region){
                 return {
                     regionName: region.name,
+                    geoid:region.geoid,
                     winners:logic.regionWinners(region)};
             })
         };

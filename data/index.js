@@ -8,7 +8,17 @@ module.exports.electionData = function(){
 
 function annotateData(){
     _(data.regions).each(function(region){
+        if (region.geoid !== undefined) {
+            region.getGeography = _.once(function(){
+                return require("./"+region.geoid+".json");
+            });
+        }else{region.getGeography = function(){return null;}}
        _(region.constituencies).each(function(constituency){
+           if (constituency.geoid !== undefined){
+               constituency.getGeography = _.once(function(){
+                   return require("./"+constituency.geoid+".json");
+               })
+           }else{constituency.getGeography = function(){return null;}}
           constituency.region = region;
        });
     });

@@ -21,6 +21,7 @@ function constituencyWinner(constituency) {
     });
     return {
         constituencyName: constituency.name,
+        geoid: constituency.geoid,
         regionName:constituency.region.name,
         candidateName:winner.candidate,
         party:winner.party

@@ -287,6 +287,7 @@
         }]
     },{
       "name":"Lothian",
+      "geoid":"135007",
       "additionalMembers":7,
       "results":[
         {"party":"SNP","votes":110953,"partyList":["292"]},
@@ -367,6 +368,7 @@
           ]
         },{
           "name":"Linlithgow",
+          "geoid":"134992",
           "results":[
             {"party":"SNP","candidate":"Fiona Hyslop","votes":17027},
             {"party":"Labour","candidate":"Mary Hulligan","votes":12936},
