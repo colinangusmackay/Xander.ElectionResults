@@ -15,6 +15,7 @@ app.set("layout extractScripts", true);
 
 // Setup routes
 app.get("/", require("./routes/home.js"));
+app.get("/constituency/:constituency", require("./routes/constituencyData.js"));
 
 // Run up the server
 http.createServer(app).listen(app.get("port"), function(){

@@ -1,13 +1,25 @@
 var _=require("underscore");
-module.exports.sortedConstituencies = function(data){
+
+function flattenedListOfConstituenciesImpl(data){
     var constituencies = _.reduce(data.regions, function(memo, region){
         return _.union(memo,region.constituencies);
     },[]);
+    return constituencies;
+}
+var flattenedListOfConstituencies = _.memoize(flattenedListOfConstituenciesImpl);
 
+module.exports.sortedConstituencies = function(data){
+    var constituencies = flattenedListOfConstituencies(data);
     return _.sortBy(constituencies, function(constituency){
         return constituency.name;
     });
 };
+
+module.exports.constituencyByGeoId(data, geoid){
+    var constituencies = flattenedListOfConstituencies(data),
+        result = _.find(constituencies, function(constituency){ return constituency.geoid === geoid;});
+    return result;
+}
 
 module.exports.sortedRegions = function(data){
     return _.sortBy(data.regions, function(region){
