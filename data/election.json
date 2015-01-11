@@ -483,7 +483,8 @@
         }]
     },{
       "name":"North East Scotland",
-      "additionalMembers":7,
+        "additionalMembers": 7,
+        "geoid": "135012",
       "results":[
         {"party":"SNP","votes":140749,"partyList":["Mark McDonald","486"]},
         {"party":"Labour","votes":43893,"partyList":["Richard Baker","Jenny Marra","Lewis MacDonald","487"]},
@@ -504,7 +505,8 @@
         {"party":"Independent 502","votes":190,"partyList":["502"]}
       ],
       "constituencies":[{
-          "name":"Aberdeen Central",
+        "name": "Aberdeen Central",
+        "geoid": "134990",
           "results":[
             {"party":"SNP","candidate":"Kevin Stewart","votes":10058},
             {"party":"Labour","candidate":"Lewis MacDonald","votes":9441},

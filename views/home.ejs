@@ -9,7 +9,7 @@
         <div class="row">
             <ul>
             <% for(var i=0;i<constituencies.length;i++){ var constituency = constituencies[i];%>
-                <li><a href="" class="constituency-link" data-geoid="<%- constituency.geoid %>"><%- constituency.constituencyName%></a> - <%- constituency.candidateName%> (<%-constituency.party%>)</li>
+                <li><a href="#" class="constituency-link" data-geoid="<%- constituency.geoid %>"><%- constituency.constituencyName%></a> - <%- constituency.candidateName%> (<%-constituency.party%>)</li>
             <% }%>
             </ul>
         </div>
@@ -19,7 +19,7 @@
         <div class="row">
             <ul>
                 <% for(var j=0;j<regions.length;j++){ var region = regions[j];%>
-                <li><a href="" class="region-link" data-geoid="<%- region.geoid %>"><%- region.regionName%></a>
+                <li><a href="#" class="region-link" data-geoid="<%- region.geoid %>"><%- region.regionName%></a>
                     <ul>
                         <% for(var k=0;k<region.winners.length;k++){ var winner = region.winners[k];%>
                         <li><%- winner.listMember%> (<%-winner.party%>)</li>

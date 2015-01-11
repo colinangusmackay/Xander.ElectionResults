@@ -15,7 +15,7 @@ module.exports.sortedConstituencies = function(data){
     });
 };
 
-module.exports.constituencyByGeoId(data, geoid){
+module.exports.constituencyByGeoId = function(data, geoid){
     var constituencies = flattenedListOfConstituencies(data),
         result = _.find(constituencies, function(constituency){ return constituency.geoid === geoid;});
     return result;

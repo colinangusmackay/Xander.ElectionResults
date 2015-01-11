@@ -26,3 +26,10 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+
+# Visual Studio files
+.suo
+.v12.suo
+bin
+obj
