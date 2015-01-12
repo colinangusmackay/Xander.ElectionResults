@@ -8,13 +8,16 @@ module.exports = function (req, res) {
         constituency = logic.constituencyByGeoId(data, constituencyGeoId),
         winner = logic.constituencyWinner(constituency),
         model = {
-            constituencyName: constituency.name,
-            geoid: constituency.geoid,
-            regionName:constituency.region.name,
-            winningCandidateName: winner.candidateName,
-            winningParty: winner.party,
-            geography: constituency.getGeography(),
-            sortedCandidates: _.sortBy(constituency.results, function(item){return -item.votes;})
+            type: "Feature",
+            properties: {
+                constituencyName: constituency.name,
+                geoid: constituency.geoid,
+                regionName: constituency.region.name,
+                winningCandidateName: winner.candidateName,
+                winningParty: winner.party,
+                sortedCandidates: _.sortBy(constituency.results, function(item) { return -item.votes; })
+            },
+            geometry: constituency.getGeography()
         };
 
     console.log("geoId = " + constituencyGeoId);

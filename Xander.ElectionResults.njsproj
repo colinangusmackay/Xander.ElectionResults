@@ -13,12 +13,52 @@
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
     <Name>Xander.ElectionResults</Name>
+    <StartWebBrowser>True</StartWebBrowser>
+    <Environment>
+    </Environment>
+    <NodejsPort>3000</NodejsPort>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
+    <Content Include="data\134933.json" />
+    <Content Include="data\134935.json" />
+    <Content Include="data\134936.json" />
+    <Content Include="data\134937.json" />
+    <Content Include="data\134942.json" />
+    <Content Include="data\134943.json" />
+    <Content Include="data\134944.json" />
+    <Content Include="data\134946.json" />
+    <Content Include="data\134947.json" />
+    <Content Include="data\134950.json" />
+    <Content Include="data\134951.json" />
+    <Content Include="data\134962.json" />
+    <Content Include="data\134963.json" />
+    <Content Include="data\134967.json" />
+    <Content Include="data\134968.json" />
+    <Content Include="data\134969.json" />
+    <Content Include="data\134970.json" />
+    <Content Include="data\134971.json" />
+    <Content Include="data\134976.json" />
+    <Content Include="data\134977.json" />
+    <Content Include="data\134978.json" />
+    <Content Include="data\134982.json" />
+    <Content Include="data\134983.json" />
+    <Content Include="data\134984.json" />
+    <Content Include="data\134985.json" />
+    <Content Include="data\134986.json" />
+    <Content Include="data\134987.json" />
+    <Content Include="data\134988.json" />
+    <Content Include="data\134989.json" />
     <Content Include="data\134990.json" />
+    <Content Include="data\134991.json" />
+    <Content Include="data\134993.json" />
+    <Content Include="data\135001.json" />
+    <Content Include="data\135002.json" />
+    <Content Include="data\135006.json" />
+    <Content Include="data\135008.json" />
     <Content Include="data\135012.json" />
+    <Content Include="data\135013.json" />
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Compile Include="server.js" />

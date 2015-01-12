@@ -1,3 +1,4 @@
+console.log(process.env);
 // Requirements
 var http = require("http");
 var express = require("express");
