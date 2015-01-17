@@ -107,7 +107,8 @@
         ]
       }]
     },{
-      "name":"Glasgow",
+        "name": "Glasgow",
+        "geoid": "135010",
       "additionalMembers":7,
       "results":[
         {"party":"SNP","votes":83109,"partyList":["Humza Yousaf","Bob Doris","101"]},
@@ -423,7 +424,8 @@
           ]
         }]
     },{
-      "name":"Mid Scotland and Fife",
+        "name": "Mid Scotland and Fife",
+        "geoid": "135011",
       "additionalMembers":7,
       "results":[
         {"party":"SNP","votes":116691,"partyList":["Annabelle Ewing","391"]},
@@ -747,7 +749,8 @@
           ]
         }]
     },{
-      "name":"West Scotland",
+        "name": "West Scotland",
+        "geoid": "135009",
       "additionalMembers":7,
       "results":[
         {"party":"SNP","votes":117306,"partyList":["Stewart Maxwell","Stuart McMillan","685"]},
